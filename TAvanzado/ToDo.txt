@@ -1,0 +1,3 @@
+- Verificar la longitud de letras que se envia en la variable f0 y disminuir el tamaño de fuente segun el tamaño del campo de texto del flash template.
+- Verificar la longitud de letras que se envia en la variable f1 y disminuir el tamaño de fuente segun el tamaño del campo de texto del flash template.
+- Validar los textos recibidos a mayusculas siempre.
